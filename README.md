@@ -1,6 +1,7 @@
 # Learn-Smasher-Intern-task-3
 # Accordion Menu Project
-This project is a simple implementation of an accordion menu using HTML, CSS, and JavaScript.
+This project is a simple implementation of an accordion menu using HTML, CSS, and JavaScript.<br>
+It was developed as an internship task to showcase my skills in  web development.
 
 # Getting Started
 To see the Accordion menu, follow these steps:<br>
@@ -20,4 +21,8 @@ Open the index.html file in a web browser.
 
 # *you can check full tutorial on* 
 https://youtu.be/gmyMvXwkX2M
+
+
+## Acknowledgments
+This project was developed as an internship task for [Learn Smasher - Web development Intern].
 
